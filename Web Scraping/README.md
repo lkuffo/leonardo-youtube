@@ -1,8 +1,9 @@
-# Leonardo Youtube
+# Web Scraping en Python
 
-![Photo](https://yt3.ggpht.com/a-/AAuE7mD8lPo-sUNqiqYsHx8Z4ZI1aJDEIOQvd6tquDqX2Q=s288-c-k-c0xffffffff-no-rj-mo)
+[Click aqui para ver el tutorial en youtube](https://youtu.be/j2WF__eM-nE)
 
-En este repositorio encontrarás la mayoria del código que hago en [mi canal de Youtube](https://www.youtube.com/channel/UCMqY16CUHOQvKepPW-f9M8Q).
+Scrapy:  http://scrapy.org/
+
 
 ## Ayúdame con una donación para poder seguir haciendo videos cada semana:
 

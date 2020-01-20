@@ -1,8 +1,8 @@
-# Leonardo Youtube
+# Arbol Fractal
 
-![Photo](https://yt3.ggpht.com/a-/AAuE7mD8lPo-sUNqiqYsHx8Z4ZI1aJDEIOQvd6tquDqX2Q=s288-c-k-c0xffffffff-no-rj-mo)
+[Click aqui para ver el video en youtube](https://www.youtube.com/watch?v=9PW_m_ffOWY)
 
-En este repositorio encontrarás la mayoria del código que hago en [mi canal de Youtube](https://www.youtube.com/channel/UCMqY16CUHOQvKepPW-f9M8Q).
+En este video te cuento qué son los árboles fractales. Además, te introduzco a la librería Turtle: Una dependencia muy sencilla para dibujar gráficos en Python. Especialmente útil para introducir a la programación a niños y principiantes. Finalmente, te introduzco a conceptos básicos de recursividad y los ponemos en práctica dibujando árboles fractales.
 
 ## Ayúdame con una donación para poder seguir haciendo videos cada semana:
 
