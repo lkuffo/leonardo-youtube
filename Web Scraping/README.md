@@ -1,6 +1,6 @@
 # Web Scraping en Python
 
-[Click aqui para ver el tutorial en youtube](https://youtu.be/j2WF__eM-nE)
+[Click aqui para ver el tutorial en youtube](https://www.youtube.com/watch?v=j2WF__eM-nE&list=PLuaGRMrO-j-8B_RT_2kGE6NW-ZxzHaU17)
 
 Scrapy:  http://scrapy.org/
 
