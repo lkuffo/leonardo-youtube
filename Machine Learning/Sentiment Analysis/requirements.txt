@@ -1,0 +1,7 @@
+marisa-trie
+numpy
+scipy
+ipython
+pandas
+spanish_sentiment_analysis
+nltk

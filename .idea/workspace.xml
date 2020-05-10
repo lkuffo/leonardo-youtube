@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="55d81a0a-769c-4730-9a6b-1ab6349547b9" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/Extracción de Datos de Twitter/README.md" afterPath="$PROJECT_DIR$/Extracción de Datos de Twitter/README.md" />
-      <change beforePath="$PROJECT_DIR$/Web Scraping/README.md" afterPath="$PROJECT_DIR$/Web Scraping/README.md" />
-    </list>
+    <list default="true" id="55d81a0a-769c-4730-9a6b-1ab6349547b9" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,8 +14,8 @@
       <file leaf-file-name="parte5-streaming.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Extracción de Datos de Twitter/parte5-streaming.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="116">
-              <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+            <state relative-caret-position="242">
+              <caret line="30" column="17" lean-forward="true" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -307,8 +304,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Extracción de Datos de Twitter/parte5-streaming.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        <state relative-caret-position="242">
+          <caret line="30" column="17" lean-forward="true" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
           <folding />
         </state>
       </provider>
