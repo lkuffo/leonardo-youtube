@@ -4,12 +4,14 @@
 
 Scrapy:  http://scrapy.org/
 
+Aprende TODO sobre Web Scraping en [mi curso online de Extracción de Datos de la Web](https://www.udemy.com/course/curso-maestro-web-scraping/?referralCode=1BA4AD4AD4BED138A583)
+
 
 ## Ayúdame con una donación para poder seguir haciendo videos cada semana:
 
 Entrando en este link podrás encontrar la mejor manera de apoyar mi contenido. Para poder seguir haciendo videos y compartir mis conocimientos:   
 
-🧡 [https://ko-fi.com/leonardokuffo](https://ko-fi.com/leonardokuffo) 🧡
+🧡 [https://paypal.me/leonardokuffo](https://paypal.me/leonardokuffo) 🧡
 
 ## Encuéntrame también en:
 🐤 [Twitter](https://twitter.com/LeonardoKuffo)
