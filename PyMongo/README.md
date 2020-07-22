@@ -14,7 +14,7 @@ PyMongo es la librería oficial que actúa como intermediario entre Python y Mon
 
 Entrando en este link podrás encontrar la mejor manera de apoyar mi contenido. Para poder seguir haciendo videos y compartir mis conocimientos:   
 
-🧡 [https://ko-fi.com/leonardokuffo](https://ko-fi.com/leonardokuffo) 🧡
+🧡 [https://www.paypal.me/leonardokuffo](https://www.paypal.me/leonardokuffo) 🧡
 
 ## Encuéntrame también en:
 🐤 [Twitter](https://twitter.com/LeonardoKuffo)
