@@ -8,7 +8,7 @@ En este video te cuento qué son los árboles fractales. Además, te introduzco 
 
 Entrando en este link podrás encontrar la mejor manera de apoyar mi contenido. Para poder seguir haciendo videos y compartir mis conocimientos:   
 
-🧡 [https://ko-fi.com/leonardokuffo](https://ko-fi.com/leonardokuffo) 🧡
+🧡 [https://www.paypal.me/leonardokuffo](https://www.paypal.me/leonardokuffo) 🧡
 
 ## Encuéntrame también en:
 🐤 [Twitter](https://twitter.com/LeonardoKuffo)
