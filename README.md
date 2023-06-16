@@ -14,7 +14,7 @@ Unete a mis más de 6000 estudiantes para aprender conmigo en uno de mis cursos 
 
 
 ## Encuéntrame en:   
-👨‍🏫 Udemy: https://www.udemy.com/user/leonardo-xavier-kuffo-rivero/
-💻 Github: https://github.com/lkuffo
-📷 Instagram: https://www.instagram.com/leo.profesor/
-🎶 Spotify: https://open.spotify.com/artist/4SIr2DWV0Xx1uRQ04XkQJU
+- 👨‍🏫 Udemy: https://www.udemy.com/user/leonardo-xavier-kuffo-rivero/   
+- 💻 Github: https://github.com/lkuffo   
+- 📷 Instagram: https://www.instagram.com/leo.profesor/   
+- 🎶 Spotify: https://open.spotify.com/artist/4SIr2DWV0Xx1uRQ04XkQJU   
