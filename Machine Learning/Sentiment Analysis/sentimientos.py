@@ -1,6 +1,11 @@
-from classifier import SentimentClassifier
+# pip install scikit-learn
+# pip install sentiment-analysis-spanish
 
-clf = SentimentClassifier()
+# Importar la libreria
+from sentiment_analysis_spanish import sentiment_analysis
+
+# Instanciar el clasificador, esto puede demorar un poco
+clf = sentiment_analysis.SentimentAnalysisSpanish()
 
 x = "Esta muy buena esa pelicula"
 
